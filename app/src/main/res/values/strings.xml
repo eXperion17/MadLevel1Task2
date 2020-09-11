@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MadLevel1Task2</string>
+    <string name="answers_correct">You have got all the answers correctly!</string>
+    <string name="answers_wrong">Try again! You have %d questions right.</string>
+</resources>
